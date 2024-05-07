@@ -2,7 +2,7 @@ package com.Ju00.todoList.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import com.example.demo.model.TodoEntity;
+import com.Ju00.todoList.model.TodoEntity;
 
 import java.util.List;
 
